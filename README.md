@@ -2,8 +2,8 @@
 
 Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Developer with a knack for turning coffee into code and ideas into digital magic. 🚀
 
-<div class="profile-banner">
-  ![Profile Banner](https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif" alt="Profile Banner">
 </div>
 
 ## 🌟 About Me
@@ -40,8 +40,11 @@ Feel free to explore my enchanted repositories, and don't hesitate to reach out 
 
 <style>
   /* Center the profile banner */
-  .profile-banner {
+  .center {
     display: flex;
     justify-content: center;
+  }
+  .center img {
+    max-width: 100%;
   }
 </style>
