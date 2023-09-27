@@ -1,9 +1,9 @@
 
 <div class="center">
 <h1 align='center'>👋 Hey, I'm Mohamed Hasan!</h1>
-<p>Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Developer with a knack for turning coffee into code and ideas into digital magic. 🚀
+<p align='center'>Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Developer with a knack for turning coffee into code and ideas into digital magic. 🚀
 </p> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlzNnE0dXp0cXMyOTRzY3ZxbDBuZXhnczIzZmU4d2J2ZG9rY3VjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Profile Banner">
+  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlzNnE0dXp0cXMyOTRzY3ZxbDBuZXhnczIzZmU4d2J2ZG9rY3VjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Profile Banner">
 </div>
 
 ## 🌟 About Me
