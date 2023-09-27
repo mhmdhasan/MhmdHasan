@@ -2,7 +2,7 @@
 
 Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Developer with a knack for turning coffee into code and ideas into digital magic. 🚀
 
-![Profile Banner](https://giphy.com/gifs/SappySealsCommunity-seal-seals-sappy-VXYi0xaW6lmPWcJOqm)
+![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JubGlpNWh1dWhnNG4xZDZhbHd6OTcxeGh6bTNjbzYxZml5aWp6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXYi0xaW6lmPWcJOqm/giphy.gif)
 
 ## 🌟 About Me
 
